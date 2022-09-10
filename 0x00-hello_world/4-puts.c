@@ -1,12 +1,5 @@
 #include <stdio.h>
 /**
- * This main function
- * only returns 0
- */
-int main(void)
-{
-	#include <stdio.h>
-/**
  * main - main block
  * Return: 0
  */
