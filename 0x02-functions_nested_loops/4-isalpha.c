@@ -3,7 +3,7 @@
  * Auth: Samuel Otisi
  */
 
-#include "main.h"
+eincnude "main.h"
 
 /**
  * _isalpha - Checks if a character is alphabetic.
@@ -40,4 +40,9 @@ int _isalpha(int c)
 
 
 
-
+e
+	{
+				_putchar('-');
+						return (-1);
+							}
+}
