@@ -1,10 +1,3 @@
-/*
- * File: 4-isalpha.c
-
-
- * Auth: Samuel Otisi
- */
-
 #include "main.h"
 
 /**
@@ -41,9 +34,12 @@ int _isalpha(int c)
 
 
 
-e
-	{
-				_putchar('-');
-						return (-1);
-							}
-}
+
+
+
+
+
+
+
+
+
