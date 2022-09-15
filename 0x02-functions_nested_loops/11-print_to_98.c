@@ -1,6 +1,7 @@
 -/*
  * File: 11-print_to_98.c
  * Auth: Samuel Otisi
+ *
  */
 
 #include <stdio.h>
@@ -26,7 +27,6 @@ void print_to_98(int n)
 		printf("%d\n", n);
 	}
 }
-
 
 
 
