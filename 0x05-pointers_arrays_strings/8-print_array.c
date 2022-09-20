@@ -1,5 +1,5 @@
 /*
- * File: 8-print_array.c
+ * File: -print_array.c
  * Auth: Samuel Otisi
  */
 
