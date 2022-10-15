@@ -1,30 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-lines (22 sloc)  493 Bytes
 /*
  * File: 1-array_iterator.c
  * Auth: Samuel Otisi
